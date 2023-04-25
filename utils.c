@@ -52,7 +52,7 @@ int is_digit(char c)
 }
 
 /**
- * convert_size_number - elboudelaly 
+ * convert_size_number - elboudelaly
  * @num: Number to be casted.
  * @size: Number indicating the type to be casted.
  *
